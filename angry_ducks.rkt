@@ -15,8 +15,9 @@
 
 (define WIDTH 800)
 (define HEIGHT 600)
-(define DUCK  .)
+(define DUCK  )
 ;; May also be refered to as "Bob"
+;;Make sure you paste the duck here :)
 
 ;;Part 1
 ;;slingshot-position-from-angle : num num -> posn
